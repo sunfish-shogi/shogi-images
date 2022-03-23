@@ -1,0 +1,31 @@
+body {
+  font-size: 16px;
+  font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
+  color: darkslategray;
+  background-color: cornsilk;
+  margin-bottom: 80px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin: 1.5rem 0 0.2rem 0;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin: 1.2rem 0 0.1rem 0;
+}
+
+section {
+  margin: 2.0rem 0 2.0rem 0;
+}
+
+.page-contents {
+  list-style: circle;
+  padding: 0 0 0 2rem;
+}
