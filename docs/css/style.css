@@ -1,5 +1,5 @@
 body {
-  font-size: 18px;
+  font-size: 1.2em;
   font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
   color: white;
   background-color: darkslategray;
@@ -23,7 +23,7 @@ ul {
 }
 
 li {
-  margin: 0.5rem;
+  margin: 0.5em;
 }
 
 img {
@@ -37,12 +37,12 @@ img.icon {
 }
 
 header {
-  padding: 1.5rem 5% 1.5rem 5%;
+  padding: 1.0em 5% 1.0em 5%;
 }
 
 nav {
-  font-size: 2.0rem;
-  margin: 2rem 0px 0px 0px;
+  font-size: 2.0em;
+  margin: 1em 0px 0px 0px;
 }
 
 nav ul {
@@ -51,7 +51,7 @@ nav ul {
 }
 
 nav li {
-  margin: 0px 0.5rem 0px 0.5rem;
+  margin: 0px 0.5em 0px 0.5em;
   display: inline-block;
 }
 
@@ -59,7 +59,7 @@ article {
   color: darkslategray;
   background-color: white;
   margin: 0px;
-  padding: 1.5rem 5% 1.5rem 5%;
+  padding: 1.0em 5% 1.0em 5%;
 }
 
 article a {
@@ -68,30 +68,30 @@ article a {
 }
 
 section {
-  margin: 2.0rem 0 4.0rem 0;
+  margin: 1.5em 0 3.0em 0;
 }
 
 h1 {
-  font-size: 3.5rem;
-  margin: 2.0rem 0 2.0rem 0;
+  font-size: 3.5em;
+  margin: 0.5em 0 0.5em 0;
 }
 
 h2 {
-  font-size: 2.0rem;
-  margin: 2.0rem 0 1.0rem 0;
+  font-size: 2.0em;
+  margin: 2.0em 0 0.3em 0;
 }
 
 h3 {
-  font-size: 1.5rem;
-  margin: 2.0rem 0 0.5rem 0;
+  font-size: 1.5em;
+  margin: 1.0em 0 0.2em 0;
 }
 
 h4 {
-  font-size: 1.2rem;
-  margin: 1.0rem 0 0.2rem 0;
+  font-size: 1.2em;
+  margin: 1.0em 0 0.1em 0;
 }
 
-#introduction {
+.long-text {
   margin-left: auto;
   margin-right: auto;
   width: min(80vw, 120vh);
