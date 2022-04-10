@@ -1,30 +1,55 @@
 <html>
   <head>
-    <title>ShogiImages</title>
+    <title>Shogi Images</title>
     <link href="css/style.css" rel="stylesheet">
   </head>
   <body>
-    <h1>ShogiImages</h1>
     <header>
-      将棋の駒や盤の画像集です。<br />
-      Web サイトやスマホアプリなどで自由に使用できます。
-      <h3>ライセンス</h3>
-      <div><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja">CC0 1.0 Universal</a></div>
-      <h3>GitHub リポジトリ</h3>
-      <div><a href="https://github.com/sunfish-shogi/shogi-images">sunfish-shogi/shogi-images</a></div>
+      <h1>
+        <img class="icon" src="./hitomoji/black_gold.png" />
+        Shogi Images
+        <img class="icon" src="./hitomoji/black_silver.png" />
+      </h1>
+      <div>
+        将棋の駒や盤の画像集です。<br />
+        Web サイトやスマホアプリなどで自由に使用できます。
+      </div>
+      <nav>
+        <ul>
+          <li>
+            <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja">
+              <img class="icon" src="./icons/cc-zero.png" alt="CC0 1.0 Universal" />
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/sunfish-shogi/shogi-images">
+              <img class="icon" src="./icons/github.png" alt="sunfish-shogi/shogi-images" />
+            </a>
+          </li>
+        </ul>
+      </nav>
     </header>
     <article>
-      <h2>目次</h2>
-      <ul class="page-contents">
-        <li><a href="#hitomoji">一文字駒</a></li>
-        <li><a href="#hitomoji_gothic">一文字駒（ゴシック体）</a></li>
-        <li><a href="#board01">盤 01</a></li>
-        <li><a href="#board02">盤 02</a></li>
-        <li><a href="#board03">盤 03</a></li>
-      </ul>
+      <section id="introduction">
+        ここで提供している画像はが適用され、用途を問わず自由に使用することができます。<br />
+        二次加工も可能です。<br />
+        報告義務はなく、ライセンス表示の必要もありません。（任意でしていただけるのは嬉しいです。）<br />
+        一方で作者は一切の責任を負わず、保証もしません。<br />
+        詳しくは CC0 の<a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode.ja">リーガルコード全文</a>をお読みください。
+      </section>
+      <section>
+        <h2>コンテンツ</h2>
+        <ul>
+          <li><a href="#hitomoji">一文字駒</a></li>
+          <li><a href="#hitomoji_gothic">一文字駒（ゴシック体）</a></li>
+          <li><a href="#board01">盤 01</a></li>
+          <li><a href="#board02">盤 02</a></li>
+          <li><a href="#board03">盤 03</a></li>
+        </ul>
+      </section>
       <section id="hitomoji">
         <h2>一文字駒</h2>
-        <div><a href="./hitomoji/piece.png"><img src="./hitomoji/piece.png" width="500" /></a></div>
+        <div><a href="./hitomoji/piece.png"><img src="./hitomoji/piece.png" /></a></div>
         <h3>ZIP</h3>
         <div>
           <a href="./hitomoji.zip">全てのファイル</a>
@@ -37,8 +62,8 @@
         <div>
           <a href="./hitomoji/piece.png">全ての駒</a>
         </div>
+        <h4>先手の駒</h4>
         <div>
-          先手の駒:
           <a href="./hitomoji/black_pawn.png">歩</a>
           <a href="./hitomoji/black_lance.png">香車</a>
           <a href="./hitomoji/black_knight.png">桂馬</a>
@@ -55,8 +80,8 @@
           <a href="./hitomoji/black_horse.png">馬</a>
           <a href="./hitomoji/black_dragon.png">龍</a>
         </div>
+        <h4>後手の駒</h4>
         <div>
-          後手の駒:
           <a href="./hitomoji/white_pawn.png">歩</a>
           <a href="./hitomoji/white_lance.png">香車</a>
           <a href="./hitomoji/white_knight.png">桂馬</a>
@@ -76,7 +101,7 @@
       </section>
       <section id="hitomoji_gothic">
         <h2>一文字駒（ゴシック体）</h2>
-        <div><a href="./hitomoji_gothic/piece.png"><img src="./hitomoji_gothic/piece.png" width="500" /></a></div>
+        <div><a href="./hitomoji_gothic/piece.png"><img src="./hitomoji_gothic/piece.png" /></a></div>
         <h3>ZIP</h3>
         <div>
           <a href="./hitomoji_gothic.zip">全てのファイル</a>
@@ -85,12 +110,15 @@
         <div>
           <a href="./hitomoji_gothic/piece.svg">全ての駒</a>
         </div>
+        <div>
+          （ご自身で SVG から画像を書き出した場合には、使用したフォントのライセンスが適用されます。）
+        </div>
         <h3>PNG</h3>
         <div>
           <a href="./hitomoji_gothic/piece.png">全ての駒</a>
         </div>
+        <h4>先手の駒</h4>
         <div>
-          先手の駒:
           <a href="./hitomoji_gothic/black_pawn.png">歩</a>
           <a href="./hitomoji_gothic/black_lance.png">香車</a>
           <a href="./hitomoji_gothic/black_knight.png">桂馬</a>
@@ -107,8 +135,8 @@
           <a href="./hitomoji_gothic/black_horse.png">馬</a>
           <a href="./hitomoji_gothic/black_dragon.png">龍</a>
         </div>
+        <h4>後手の駒</h4>
         <div>
-          後手の駒:
           <a href="./hitomoji_gothic/white_pawn.png">歩</a>
           <a href="./hitomoji_gothic/white_lance.png">香車</a>
           <a href="./hitomoji_gothic/white_knight.png">桂馬</a>
@@ -128,7 +156,7 @@
       </section>
       <section id="board01">
         <h2>盤 01</h2>
-        <div><a href="./board/board01.png"><img src="./board/board01.png" width="500" /></a></div>
+        <div><a href="./board/board01.png"><img src="./board/board01.png" /></a></div>
         <div>
           <a href="./board/board01.svg">SVG</a>
           <a href="./board/board01.png">PNG</a>
@@ -136,7 +164,7 @@
       </section>
       <section id="board02">
         <h2>盤 02</h2>
-        <div><a href="./board/board02.png"><img src="./board/board02.png" width="500" /></a></div>
+        <div><a href="./board/board02.png"><img src="./board/board02.png" /></a></div>
         <div>
           <a href="./board/board02.svg">SVG</a>
           <a href="./board/board02.png">PNG</a>
@@ -144,7 +172,7 @@
       </section>
       <section id="board03">
         <h2>盤 03</h2>
-        <div><a href="./board/board03.png"><img src="./board/board03.png" width="500" /></a></div>
+        <div><a href="./board/board03.png"><img src="./board/board03.png" /></a></div>
         <div>
           <a href="./board/board03.svg">SVG</a>
           <a href="./board/board03.png">PNG</a>

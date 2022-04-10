@@ -1,31 +1,99 @@
 body {
-  font-size: 16px;
+  font-size: 18px;
   font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
+  color: white;
+  background-color: darkslategray;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+a {
+  color: lemonchiffon;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+}
+
+li {
+  margin: 0.5rem;
+}
+
+img {
+  width: min(60vw, 80vh);
+}
+
+img.icon {
+  width: auto;
+  height: 1.2em;
+  vertical-align: -0.2em;
+}
+
+header {
+  padding: 1.5rem 5% 1.5rem 5%;
+}
+
+nav {
+  font-size: 2.0rem;
+  margin: 2rem 0px 0px 0px;
+}
+
+nav ul {
+  padding: 0px;
+  list-style: none;
+}
+
+nav li {
+  margin: 0px 0.5rem 0px 0.5rem;
+  display: inline-block;
+}
+
+article {
   color: darkslategray;
-  background-color: cornsilk;
-  margin-bottom: 80px;
+  background-color: white;
+  margin: 0px;
+  padding: 1.5rem 5% 1.5rem 5%;
 }
 
-h1 {
-  font-size: 2.5rem;
-  margin: 0.5rem 0 0.5rem 0;
-}
-
-h2 {
-  font-size: 1.4rem;
-  margin: 1.5rem 0 0.2rem 0;
-}
-
-h3 {
-  font-size: 1.1rem;
-  margin: 1.2rem 0 0.1rem 0;
+article a {
+  color: seagreen;
+  font-weight: bold;
 }
 
 section {
+  margin: 2.0rem 0 4.0rem 0;
+}
+
+h1 {
+  font-size: 3.5rem;
   margin: 2.0rem 0 2.0rem 0;
 }
 
-.page-contents {
-  list-style: circle;
-  padding: 0 0 0 2rem;
+h2 {
+  font-size: 2.0rem;
+  margin: 2.0rem 0 1.0rem 0;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin: 2.0rem 0 0.5rem 0;
+}
+
+h4 {
+  font-size: 1.2rem;
+  margin: 1.0rem 0 0.2rem 0;
+}
+
+#introduction {
+  margin-left: auto;
+  margin-right: auto;
+  width: min(80vw, 120vh);
+  text-align: left;
 }
