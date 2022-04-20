@@ -1,5 +1,5 @@
 body {
-  font-size: 1.2em;
+  font-size: 18px;
   font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
   color: white;
   background-color: darkslategray;
@@ -26,14 +26,36 @@ li {
   margin: 0.5em;
 }
 
+.long-text {
+  margin-left: auto;
+  margin-right: auto;
+  width: min(90vw, 110vh);
+  text-align: left;
+}
+
+.images {
+  margin-left: auto;
+  margin-right: auto;
+  width: min(90vw, 110vh);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 img {
-  width: min(60vw, 80vh);
+  width: max(min(40vw, 50vh), min(80vw, 50vh));
+  margin: min(1.0vw, 1.0vh);
+}
+
+img.wide {
+  width: max(min(80vw, 80vh), min(80vw, 80vh));
 }
 
 img.icon {
   width: auto;
   height: 1.2em;
   vertical-align: -0.2em;
+  margin: 0px;
 }
 
 header {
@@ -71,6 +93,19 @@ section {
   margin: 1.5em 0 3.0em 0;
 }
 
+section div {
+  margin: 0.5em 0px 0.5em 0px;
+}
+
+hr {
+  margin: auto;
+  padding: 0px;
+  border: none;
+  border-top: solid;
+  border-color: darkslategray;
+  width: min(100vw, 120vh);
+}
+
 h1 {
   font-size: 3.5em;
   margin: 0.5em 0 0.5em 0;
@@ -89,11 +124,4 @@ h3 {
 h4 {
   font-size: 1.2em;
   margin: 1.0em 0 0.1em 0;
-}
-
-.long-text {
-  margin-left: auto;
-  margin-right: auto;
-  width: min(80vw, 120vh);
-  text-align: left;
 }
