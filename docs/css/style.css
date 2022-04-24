@@ -1,4 +1,5 @@
 body {
+  -webkit-text-size-adjust: 100%;
   font-size: 18px;
   font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
   color: white;
@@ -33,6 +34,10 @@ li {
   text-align: left;
 }
 
+.note {
+  font-size: 0.8em;
+}
+
 .images {
   margin-left: auto;
   margin-right: auto;
@@ -51,6 +56,10 @@ img.wide {
   width: max(min(80vw, 80vh), min(80vw, 80vh));
 }
 
+img.border {
+  border: solid 1px darkslategray;
+}
+
 img.icon {
   width: auto;
   height: 1.2em;
@@ -58,13 +67,22 @@ img.icon {
   margin: 0px;
 }
 
+img.small-icon {
+  width: auto;
+  height: 1.0em;
+  vertical-align: -0.2em;
+  margin: 0px;
+}
+
 header {
+  font-size: 1.0em;
   padding: 1.0em 5% 1.0em 5%;
 }
 
 nav {
-  font-size: 2.0em;
+  font-size: 1.1em;
   margin: 1em 0px 0px 0px;
+  line-height: 2.0em;
 }
 
 nav ul {
@@ -112,16 +130,16 @@ h1 {
 }
 
 h2 {
-  font-size: 2.0em;
-  margin: 2.0em 0 0.3em 0;
+  font-size: 1.8em;
+  margin: 2.0em 0 0.4em 0;
 }
 
 h3 {
-  font-size: 1.5em;
-  margin: 1.0em 0 0.2em 0;
+  font-size: 1.3em;
+  margin: 1.8em 0 0.3em 0;
 }
 
 h4 {
-  font-size: 1.2em;
-  margin: 1.0em 0 0.1em 0;
+  font-size: 1.1em;
+  margin: 1.5em 0 0.2em 0;
 }
