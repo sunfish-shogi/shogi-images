@@ -143,3 +143,25 @@ h4 {
   font-size: 1.1em;
   margin: 1.5em 0 0.2em 0;
 }
+
+header .link-buttons {
+  font-size: 1.4em;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+header .link-buttons > * {
+  margin: 0px 0.5em 0px 0.5em;
+}
+
+.labels {
+  font-size: 1.4em;
+  margin: 1em 0px 1em 0px;
+}
+
+.label {
+  margin: 0px 0.5em 0px 0.5em;
+  width: auto;
+  height: 2.0em;
+}
