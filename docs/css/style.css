@@ -121,7 +121,7 @@ hr {
   border: none;
   border-top: solid;
   border-color: darkslategray;
-  width: min(100vw, 120vh);
+  width: min(90vw, 120vh);
 }
 
 h1 {
