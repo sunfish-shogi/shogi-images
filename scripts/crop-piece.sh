@@ -1,6 +1,7 @@
 #!/bin/bash -eu
 
-DIR="../docs/hitomoji_gothic"
+NAME=$1
+DIR="../docs/${NAME}"
 
 mkdir -p tmp
 convert -crop "12.5%x25%" $DIR/piece.png tmp/piece.png

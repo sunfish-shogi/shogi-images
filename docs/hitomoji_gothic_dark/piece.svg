@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="280mm"
+   height="148.00003mm"
+   viewBox="0 0 280 148.00003"
+   version="1.1"
+   id="svg153"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="piece.svg"
+   inkscape:export-filename=".\piece.png"
+   inkscape:export-xdpi="101.6"
+   inkscape:export-ydpi="101.6"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview155"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.62448797"
+     inkscape:cx="490.80209"
+     inkscape:cy="335.47484"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs150">
+    <rect
+       x="950.37863"
+       y="30.424927"
+       width="89.673468"
+       height="84.068876"
+       id="rect2862" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10641"
+       x="-0.033025088"
+       y="-0.030671388"
+       width="1.1004513"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10631" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10633" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10635" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10637" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10639" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10641-3"
+       x="-0.033025281"
+       y="-0.030671388"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10631-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10633-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10635-1" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10637-5" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10639-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10641-3-0"
+       x="-0.033025281"
+       y="-0.030671388"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10631-9-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10633-6-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10635-1-4" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10637-5-2" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10639-9-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653"
+       x="-0.035563881"
+       y="-0.03196253"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653-9"
+       x="-0.035563894"
+       y="-0.03196253"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647-9" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653-2"
+       x="-0.035563881"
+       y="-0.03196253"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647-3" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649-4" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653-9-2"
+       x="-0.035563894"
+       y="-0.03196253"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643-6-2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645-5-4" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647-9-8" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649-7-5" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651-7-3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10665"
+       x="-0.039603356"
+       y="-0.032982313"
+       width="1.1204602"
+       height="1.1174995">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10655" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10657" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10659" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10661" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10663" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10665-7"
+       x="-0.03960334"
+       y="-0.032982313"
+       width="1.1204602"
+       height="1.1174995">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10655-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10657-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10659-1" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10661-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10663-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4469"
+       x="-0.03015622"
+       y="-0.028055762"
+       width="1.0917252"
+       height="1.0999487">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4459" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4461" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4463" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset4465" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4467" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166"
+       x="-0.031482844"
+       y="-0.029226574"
+       width="1.0957603"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166-9"
+       x="-0.031482966"
+       y="-0.029226574"
+       width="1.0957607"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160-4" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166-3"
+       x="-0.031482844"
+       y="-0.029226574"
+       width="1.0957603"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160-6" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162-72" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166-9-9"
+       x="-0.031482966"
+       y="-0.029226574"
+       width="1.0957607"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156-9-2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158-3-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160-4-8" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162-7-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164-0-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4469-6"
+       x="-0.03015622"
+       y="-0.028055762"
+       width="1.0917252"
+       height="1.0999487">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4459-4" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4461-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4463-7" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset4465-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4467-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12126"
+       x="-0.033025088"
+       y="-0.030671378"
+       width="1.1004513"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12116" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12118" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12120" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12122" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12124" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12138"
+       x="-0.033025281"
+       y="-0.030671378"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12128" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12130" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12132" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12134" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12136" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12150"
+       x="-0.033025281"
+       y="-0.030671388"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12140" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12142" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12144" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12146" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12148" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12162"
+       x="-0.035563894"
+       y="-0.031962519"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12152" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12154" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12156" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12158" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12160" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12174"
+       x="-0.035563894"
+       y="-0.031962519"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12164" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12166" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12168" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12170" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12172" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12186"
+       x="-0.035563894"
+       y="-0.03196253"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12176" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12178" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12180" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12182" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12184" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12198"
+       x="-0.035563894"
+       y="-0.03196253"
+       width="1.1081735"
+       height="1.1138665">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12188" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12190" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12192" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12194" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12196" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12210"
+       x="-0.03960334"
+       y="-0.032982301"
+       width="1.1204602"
+       height="1.1174994">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12200" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12202" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12204" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12206" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12208" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12222"
+       x="-0.039603356"
+       y="-0.032982313"
+       width="1.1204602"
+       height="1.1174995">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12212" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12214" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12216" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12218" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12220" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12234"
+       x="-0.03015622"
+       y="-0.028055754"
+       width="1.0917252"
+       height="1.0999486">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12224" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12226" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12228" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12230" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12232" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12246"
+       x="-0.031482844"
+       y="-0.029226565"
+       width="1.0957603"
+       height="1.1041196">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12236" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12238" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12240" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12242" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12244" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12258"
+       x="-0.031482963"
+       y="-0.029226565"
+       width="1.0957607"
+       height="1.1041196">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12248" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12250" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12252" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12254" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12256" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12270"
+       x="-0.031482844"
+       y="-0.029226574"
+       width="1.0957603"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12260" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12262" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12264" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12266" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12268" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12282"
+       x="-0.031482966"
+       y="-0.029226574"
+       width="1.0957607"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12272" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12274" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12276" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12278" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12280" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12294"
+       x="-0.039603356"
+       y="-0.032982313"
+       width="1.1204602"
+       height="1.1174995">
+      <feFlood
+         flood-opacity="0.90339425587467359"
+         flood-color="rgb(222,221,218)"
+         result="flood"
+         id="feFlood12284" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12286" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12288" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12290" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12292" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="frame"
+     transform="translate(-7.4299545,-111.66332)"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.699903"
+       id="rect8004"
+       width="280"
+       height="148"
+       x="7.4299617"
+       y="111.66332"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0"
+       width="35"
+       height="37"
+       x="252.42996"
+       y="111.66332"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2"
+       width="35"
+       height="37"
+       x="252.42996"
+       y="185.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6"
+       width="35"
+       height="37"
+       x="252.42996"
+       y="148.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-6"
+       width="35"
+       height="37"
+       x="217.42996"
+       y="111.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-64"
+       width="35"
+       height="37"
+       x="217.42996"
+       y="148.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2-7"
+       width="35"
+       height="37"
+       x="217.42996"
+       y="222.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-7"
+       width="35"
+       height="37"
+       x="217.42996"
+       y="185.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-0"
+       width="35"
+       height="37"
+       x="252.42996"
+       y="222.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-7"
+       width="35"
+       height="37"
+       x="182.42996"
+       y="111.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2-9"
+       width="35"
+       height="37"
+       x="182.42996"
+       y="185.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-8"
+       width="35"
+       height="37"
+       x="182.42996"
+       y="148.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-6-2"
+       width="35"
+       height="37"
+       x="147.42996"
+       y="111.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-64-6"
+       width="35"
+       height="37"
+       x="147.42996"
+       y="148.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2-7-4"
+       width="35"
+       height="37"
+       x="147.42996"
+       y="222.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-7-2"
+       width="35"
+       height="37"
+       x="147.42996"
+       y="185.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-0-2"
+       width="35"
+       height="37"
+       x="182.42996"
+       y="222.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-1"
+       width="35"
+       height="37"
+       x="112.42996"
+       y="111.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2-4"
+       width="35"
+       height="37"
+       x="112.42996"
+       y="185.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-85"
+       width="35"
+       height="37"
+       x="112.42996"
+       y="148.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-6-8"
+       width="35"
+       height="37"
+       x="77.429955"
+       y="111.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-64-3"
+       width="35"
+       height="37"
+       x="77.429955"
+       y="148.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2-7-2"
+       width="35"
+       height="37"
+       x="77.429955"
+       y="222.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-7-3"
+       width="35"
+       height="37"
+       x="77.429955"
+       y="185.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-0-7"
+       width="35"
+       height="37"
+       x="112.42996"
+       y="222.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-4"
+       width="35"
+       height="37"
+       x="42.429955"
+       y="111.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2-49"
+       width="35"
+       height="37"
+       x="42.429955"
+       y="185.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-05"
+       width="35"
+       height="37"
+       x="42.429955"
+       y="148.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-6-0"
+       width="35"
+       height="37"
+       x="7.4299545"
+       y="111.66337"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-64-4"
+       width="35"
+       height="37"
+       x="7.4299545"
+       y="148.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.123727"
+       id="rect8004-0-2-7-5"
+       width="35"
+       height="37"
+       x="7.4299545"
+       y="222.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-7-6"
+       width="35"
+       height="37"
+       x="7.4299545"
+       y="185.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.123727"
+       id="rect8004-0-6-0-6"
+       width="35"
+       height="37"
+       x="42.429955"
+       y="222.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="piece"
+     style="display:inline"
+     transform="translate(-7.4299545,-111.66332)">
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.114633;filter:url(#filter12294)"
+       d="m 115.23778,145.88973 c 0,0 0.63315,-6.69741 1.45279,-14.25145 0.81963,-7.55405 1.49024,-13.86119 1.49024,-13.86119 l 11.40683,-3.18689 11.21201,2.6738 3.50694,28.61904 z"
+       id="path6263-9-9"
+       sodipodi:nodetypes="csccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.114633;filter:url(#filter12294)"
+       d="m 150.66217,145.9583 c 0,0 0.63315,-6.69741 1.45279,-14.25145 0.81962,-7.55405 1.49023,-13.86119 1.49023,-13.86119 l 11.40675,-3.18689 11.21195,2.6738 3.50692,28.61904 z"
+       id="path6263-9-9-5"
+       sodipodi:nodetypes="csccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.114633;filter:url(#filter12294)"
+       d="m 150.7681,183.03034 c 0,0 0.63315,-6.69741 1.45279,-14.25145 0.81962,-7.55405 1.49023,-13.86119 1.49023,-13.86119 l 11.40675,-3.18689 11.21195,2.6738 3.50692,28.61904 z"
+       id="path6263-9-9-5-81"
+       sodipodi:nodetypes="csccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 185.90854,145.87507 2.76259,-26.97466 10.5729,-3.06048 10.39234,2.56775 3.26585,27.46442 -26.99368,0.003 z"
+       id="path6263-9-9-5-8"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 221.87825,145.84284 2.76259,-26.97466 10.5729,-3.06048 10.39233,2.56775 3.26585,27.46442 -26.99367,0.003 z"
+       id="path6263-9-9-5-8-7"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 185.56382,182.61966 2.76259,-26.97466 10.5729,-3.06048 10.39234,2.56775 3.26585,27.46442 -26.99368,0.003 z"
+       id="path6263-9-9-5-8-6"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 221.57098,182.81212 2.76259,-26.97466 10.5729,-3.06048 10.39233,2.56775 3.26585,27.46442 -26.99367,0.003 z"
+       id="path6263-9-9-5-8-7-1"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.100943;filter:url(#filter12294)"
+       d="m 258.05053,145.71848 2.48545,-26.13761 9.49434,-2.9689 9.33218,2.49091 2.9284,26.6135 z"
+       id="path6263-9-9-5-8-3-6"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.100943;filter:url(#filter12294)"
+       d="m 257.65835,182.67484 2.48546,-26.13761 9.49433,-2.9689 9.33219,2.49091 2.9284,26.6135 z"
+       id="path6263-9-9-5-8-3-6-0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.251386;filter:url(#filter12294)"
+       d="m 11.892372,115.60884 12.35597,-3.38199 12.35252,2.8962 3.72293,31.29337 -31.8342291,0.028 z"
+       id="path7343"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 47.80851,116.84684 11.83532,-3.2465 11.832006,2.78017 3.56605,30.03975 -30.492798,0.0269 z"
+       id="path7343-5"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 82.570439,116.81386 11.835254,-3.2465 11.831977,2.78017 3.56605,30.03975 -30.49268,0.0269 z"
+       id="path7343-5-4"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 47.68816,154.11423 11.83532,-3.2465 11.832006,2.78017 3.56605,30.03975 -30.492798,0.0269 z"
+       id="path7343-5-5"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 82.450092,154.08125 11.835251,-3.2465 11.831977,2.78017 3.56605,30.03975 -30.49268,0.0269 z"
+       id="path7343-5-4-6"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.251386;filter:url(#filter12294)"
+       d="m 12.038602,152.80642 12.35597,-3.38199 12.35252,2.8962 3.72293,31.29337 -31.8342291,0.028 z"
+       id="path7343-8"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.114633;filter:url(#filter12294)"
+       d="m 144.45393,187.26011 c 0,0 -0.63315,6.69741 -1.4528,14.25145 -0.81962,7.55405 -1.49023,13.8612 -1.49023,13.8612 l -11.40683,3.18689 -11.21201,-2.6738 -3.50694,-28.61905 z"
+       id="path6263-9-9-8"
+       sodipodi:nodetypes="csccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.114633;filter:url(#filter12294)"
+       d="m 179.87815,187.32868 c 0,0 -0.63315,6.69741 -1.45279,14.25145 -0.81962,7.55405 -1.49023,13.8612 -1.49023,13.8612 l -11.40676,3.18689 -11.21194,-2.6738 -3.50692,-28.61905 z"
+       id="path6263-9-9-5-9"
+       sodipodi:nodetypes="csccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.114633;filter:url(#filter12294)"
+       d="m 179.98408,224.40074 c 0,0 -0.63315,6.69741 -1.45279,14.25145 -0.81962,7.55405 -1.49023,13.86119 -1.49023,13.86119 l -11.40676,3.18689 -11.21194,-2.6738 -3.50692,-28.61904 z"
+       id="path6263-9-9-5-81-7"
+       sodipodi:nodetypes="csccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 213.04957,188.04685 -2.76259,26.97467 -10.57291,3.06048 -10.39232,-2.56775 -3.26585,-27.46443 26.99367,-0.003 z"
+       id="path6263-9-9-5-8-2"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 249.05673,187.97451 -2.76259,26.97467 -10.5729,3.06048 -10.39233,-2.56775 -3.26585,-27.46443 26.99367,-0.003 z"
+       id="path6263-9-9-5-8-7-7"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 212.70485,224.79144 -2.76259,26.97466 -10.57291,3.06048 -10.39232,-2.56775 -3.26585,-27.46442 26.99367,-0.003 z"
+       id="path6263-9-9-5-8-6-8"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.108153;filter:url(#filter12294)"
+       d="m 248.71201,224.9839 -2.76259,26.97466 -10.5729,3.06048 -10.39233,-2.56775 -3.26585,-27.46442 26.99367,-0.003 z"
+       id="path6263-9-9-5-8-7-1-2"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.100943;filter:url(#filter12294)"
+       d="m 282.43827,188.28969 -2.48545,26.13762 -9.49434,2.9689 -9.33219,-2.49091 -2.9284,-26.61351 z"
+       id="path6263-9-9-5-8-3-6-2"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.100943;filter:url(#filter12294)"
+       d="m 282.04609,225.24605 -2.48545,26.13761 -9.49434,2.9689 -9.33218,-2.49091 -2.9284,-26.6135 z"
+       id="path6263-9-9-5-8-3-6-0-6"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.251386;filter:url(#filter12294)"
+       d="m 37.208662,217.25176 -12.35597,3.38199 -12.35252,-2.8962 -3.7229291,-31.29338 31.8342291,-0.028 z"
+       id="path7343-58"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 71.929816,216.26745 -11.835316,3.2465 -11.83201,-2.78017 -3.566052,-30.03976 30.492798,-0.0269 z"
+       id="path7343-5-1"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 106.69165,216.23447 -11.83529,3.2465 -11.831941,-2.78017 -3.566032,-30.03976 30.492683,-0.0269 z"
+       id="path7343-5-4-9"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 71.809466,253.53485 -11.835316,3.2465 -11.83201,-2.78017 -3.566052,-30.03975 30.492798,-0.0269 z"
+       id="path7343-5-5-9"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.241054;filter:url(#filter12294)"
+       d="m 106.5713,253.50187 -11.83529,3.2465 -11.831941,-2.78017 -3.566029,-30.03975 30.49268,-0.0269 z"
+       id="path7343-5-4-6-2"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.251386;filter:url(#filter12294)"
+       d="m 37.354892,254.44933 -12.35597,3.38199 -12.35252,-2.8962 -3.7229291,-31.29337 31.8342291,-0.028 z"
+       id="path7343-8-2"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+  <g
+     inkscape:label="character"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-7.4299545,-111.66332)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.4299545,111.66332)"
+       id="text2860"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2862);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.768403"
+       y="140.26086"
+       id="text22356"><tspan
+         sodipodi:role="line"
+         id="tspan22354"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="12.768403"
+         y="140.26086">王</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="48.569923"
+       y="139.15475"
+       id="text22356-6"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.2414"
+         x="48.569923"
+         y="139.15475">飛</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="83.863663"
+       y="139.32816"
+       id="text22356-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.2414"
+         x="83.863663"
+         y="139.32816">角</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.714734"
+       y="177.02744"
+       id="text22356-6-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="12.714734"
+         y="177.02744">玉</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="48.105511"
+       y="176.74106"
+       id="text22356-6-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-18"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.2414"
+         x="48.105511"
+         y="176.74106">竜</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="83.463005"
+       y="176.89955"
+       id="text22356-6-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.2414"
+         x="83.463005"
+         y="176.89955">馬</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.220041"
+       x="119.31397"
+       y="139.97833"
+       id="text22356-6-0-98"
+       inkscape:export-filename=".\text22356-6-0-98.png"
+       inkscape:export-xdpi="101.6"
+       inkscape:export-ydpi="101.6"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.220041"
+         x="119.31397"
+         y="139.97833">金</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.220041"
+       x="155.01443"
+       y="139.67055"
+       id="text22356-6-0-98-3"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.220041"
+         x="155.01443"
+         y="139.67055">銀</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="188.87"
+       y="139.7726"
+       id="text22356-6-0-98-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.210967"
+         x="188.87"
+         y="139.7726">桂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="225.0325"
+       y="139.87331"
+       id="text22356-6-0-98-3-99"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.210967"
+         x="225.0325"
+         y="139.87331">香</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.183745"
+       x="260.35287"
+       y="140.01305"
+       id="text22356-6-0-98-3-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.183745"
+         x="260.35287"
+         y="140.01305">歩</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.220041"
+       x="154.91023"
+       y="177.53511"
+       id="text22356-6-0-98-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.220041"
+         x="154.91023"
+         y="177.53511">全</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="188.70041"
+       y="177.31532"
+       id="text22356-6-0-98-3-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.210967"
+         x="188.70041"
+         y="177.31532">圭</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="224.82924"
+       y="176.56862"
+       id="text22356-6-0-98-3-99-8"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.210967"
+         x="224.82924"
+         y="176.56862">杏</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.183745"
+       x="260.62073"
+       y="176.99336"
+       id="text22356-6-0-98-3-9-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.183745"
+         x="260.62073"
+         y="176.99336">と</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-36.541451"
+       y="-192.58839"
+       id="text22356-1"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="-36.541451"
+         y="-192.58839">王</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="-71.172798"
+       y="-193.28868"
+       id="text22356-6-6"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.2414"
+         x="-71.172798"
+         y="-193.28868">飛</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="-105.42537"
+       y="-193.29881"
+       id="text22356-6-0-63"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.2414"
+         x="-105.42537"
+         y="-193.29881">角</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-36.944729"
+       y="-229.94377"
+       id="text22356-6-0-6-5"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.3004px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="-36.944729"
+         y="-229.94377">玉</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="-71.10656"
+       y="-230.17159"
+       id="text22356-6-0-9-5"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-18-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.2414"
+         x="-71.10656"
+         y="-230.17159">竜</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.2414"
+       x="-105.76124"
+       y="-230.29759"
+       id="text22356-6-0-1-9"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1354px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.2414"
+         x="-105.76124"
+         y="-230.29759">馬</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.220041"
+       x="-140.64848"
+       y="-193.20651"
+       id="text22356-6-0-98-7"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.220041"
+         x="-140.64848"
+         y="-193.20651">金</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.220041"
+       x="-175.99226"
+       y="-193.73227"
+       id="text22356-6-0-98-3-1"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.220041"
+         x="-175.99226"
+         y="-193.73227">銀</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="-209.87857"
+       y="-193.46654"
+       id="text22356-6-0-98-3-9-9"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.210967"
+         x="-209.87857"
+         y="-193.46654">桂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="-245.85358"
+       y="-193.31824"
+       id="text22356-6-0-98-3-99-7"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.210967"
+         x="-245.85358"
+         y="-193.31824">香</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.183745"
+       x="-280.34204"
+       y="-193.94981"
+       id="text22356-6-0-98-3-9-4-3"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.183745"
+         x="-280.34204"
+         y="-193.94981">歩</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.220041"
+       x="-176.41429"
+       y="-230.28458"
+       id="text22356-6-0-98-3-4-5"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.220041"
+         x="-176.41429"
+         y="-230.28458">全</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="-209.87714"
+       y="-230.13341"
+       id="text22356-6-0-98-3-9-7-7"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.210967"
+         x="-209.87714"
+         y="-230.13341">圭</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.210967"
+       x="-245.27397"
+       y="-230.70096"
+       id="text22356-6-0-98-3-99-8-8"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-1-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.0286px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.210967"
+         x="-245.27397"
+         y="-230.70096">杏</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;line-height:1.25;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.183745"
+       x="-279.61606"
+       y="-230.68539"
+       id="text22356-6-0-98-3-9-4-0-7"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-0-9-3-0-0-6-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9772px;font-family:'BIZ UDPGothic';-inkscape-font-specification:'BIZ UDPGothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8080;stroke-width:0.183745"
+         x="-279.61606"
+         y="-230.68539">と</tspan></text>
+  </g>
+</svg>
