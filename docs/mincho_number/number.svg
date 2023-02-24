@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="699.99994mm"
+   height="70.000031mm"
+   viewBox="0 0 699.99994 70.000031"
+   version="1.1"
+   id="svg153"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="number.svg"
+   inkscape:export-filename=".\number.png"
+   inkscape:export-xdpi="101.59999"
+   inkscape:export-ydpi="101.59999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview155"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.62448797"
+     inkscape:cx="2096.9179"
+     inkscape:cy="149.72266"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs150">
+    <rect
+       x="950.3786"
+       y="30.424927"
+       width="89.67347"
+       height="84.068878"
+       id="rect2862" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10641"
+       x="-0.03302509"
+       y="-0.030671388"
+       width="1.1004514"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10631" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10633" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10635" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10637" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10639" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10641-3"
+       x="-0.03302528"
+       y="-0.030671388"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10631-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10633-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10635-1" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10637-5" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10639-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10641-3-0"
+       x="-0.03302528"
+       y="-0.030671388"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10631-9-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10633-6-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10635-1-4" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10637-5-2" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10639-9-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653"
+       x="-0.035563882"
+       y="-0.031962529"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653-9"
+       x="-0.035563894"
+       y="-0.031962529"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647-9" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653-2"
+       x="-0.035563882"
+       y="-0.031962529"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647-3" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649-4" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10653-9-2"
+       x="-0.035563894"
+       y="-0.031962529"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10643-6-2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10645-5-4" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10647-9-8" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10649-7-5" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10651-7-3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10665"
+       x="-0.039603356"
+       y="-0.032982312"
+       width="1.1204602"
+       height="1.1174995">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10655" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10657" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10659" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10661" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10663" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter10665-7"
+       x="-0.039603341"
+       y="-0.032982312"
+       width="1.1204602"
+       height="1.1174995">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10655-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10657-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur10659-1" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset10661-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10663-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4469"
+       x="-0.030156219"
+       y="-0.028055763"
+       width="1.0917252"
+       height="1.0999486">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4459" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4461" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4463" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset4465" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4467" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166"
+       x="-0.031482846"
+       y="-0.029226573"
+       width="1.0957603"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166-9"
+       x="-0.031482965"
+       y="-0.029226573"
+       width="1.0957607"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160-4" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166-3"
+       x="-0.031482846"
+       y="-0.029226573"
+       width="1.0957603"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160-6" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162-72" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11166-9-9"
+       x="-0.031482965"
+       y="-0.029226573"
+       width="1.0957607"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11156-9-2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11158-3-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur11160-4-8" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset11162-7-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11164-0-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4469-6"
+       x="-0.030156219"
+       y="-0.028055763"
+       width="1.0917252"
+       height="1.0999486">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4459-4" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4461-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4463-7" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset4465-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4467-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12126"
+       x="-0.03302509"
+       y="-0.030671379"
+       width="1.1004514"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12116" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12118" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12120" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12122" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12124" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12138"
+       x="-0.03302528"
+       y="-0.030671379"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12128" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12130" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12132" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12134" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12136" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12150"
+       x="-0.03302528"
+       y="-0.030671388"
+       width="1.1004519"
+       height="1.1092668">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12140" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12142" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12144" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12146" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12148" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12162"
+       x="-0.035563894"
+       y="-0.031962518"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12152" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12154" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12156" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12158" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12160" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12174"
+       x="-0.035563894"
+       y="-0.031962518"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12164" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12166" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12168" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12170" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12172" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12186"
+       x="-0.035563894"
+       y="-0.031962529"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12176" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12178" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12180" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12182" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12184" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12198"
+       x="-0.035563894"
+       y="-0.031962529"
+       width="1.1081735"
+       height="1.1138664">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12188" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12190" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12192" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12194" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12196" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12210"
+       x="-0.039603341"
+       y="-0.032982301"
+       width="1.1204602"
+       height="1.1174994">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12200" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12202" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12204" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12206" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12208" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12222"
+       x="-0.039603356"
+       y="-0.032982312"
+       width="1.1204602"
+       height="1.1174995">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12212" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12214" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12216" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12218" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12220" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12234"
+       x="-0.030156219"
+       y="-0.028055754"
+       width="1.0917252"
+       height="1.0999486">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12224" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12226" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12228" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12230" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12232" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12246"
+       x="-0.031482846"
+       y="-0.029226566"
+       width="1.0957603"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12236" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12238" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12240" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12242" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12244" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12258"
+       x="-0.031482965"
+       y="-0.029226566"
+       width="1.0957607"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12248" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12250" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12252" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12254" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12256" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12270"
+       x="-0.031482846"
+       y="-0.029226573"
+       width="1.0957603"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12260" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12262" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12264" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12266" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12268" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12282"
+       x="-0.031482965"
+       y="-0.029226573"
+       width="1.0957607"
+       height="1.1041197">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12272" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12274" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12276" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12278" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12280" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12294"
+       x="-0.030156219"
+       y="-0.028055763"
+       width="1.0917252"
+       height="1.0999486">
+      <feFlood
+         flood-opacity="0.85098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12284" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12286" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur12288" />
+      <feOffset
+         dx="1"
+         dy="1.5"
+         result="offset"
+         id="feOffset12290" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12292" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="frame"
+     transform="translate(-7.4299469,-111.66333)"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-1"
+       width="35"
+       height="34.999969"
+       x="252.42996"
+       y="146.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-4"
+       width="35"
+       height="35"
+       x="42.429955"
+       y="111.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5"
+       width="35"
+       height="34.999969"
+       x="217.42996"
+       y="146.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-6"
+       width="35"
+       height="34.999969"
+       x="182.42996"
+       y="146.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-7-5"
+       width="35"
+       height="34.999969"
+       x="147.42996"
+       y="146.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-2-9"
+       width="35"
+       height="34.999969"
+       x="112.42995"
+       y="146.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-1-8"
+       width="35"
+       height="35"
+       x="77.429955"
+       y="146.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-8-7"
+       width="35"
+       height="35"
+       x="42.429947"
+       y="146.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-4-1"
+       width="35"
+       height="35"
+       x="7.4299469"
+       y="146.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-1-4"
+       width="35"
+       height="34.999969"
+       x="532.42999"
+       y="146.6633"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-1"
+       width="35"
+       height="34.999969"
+       x="497.42999"
+       y="146.66328"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-1-4-6"
+       width="35"
+       height="34.999969"
+       x="602.42999"
+       y="146.66331"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-1-0"
+       width="35"
+       height="34.999969"
+       x="567.42999"
+       y="146.6633"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-6-6"
+       width="35"
+       height="34.999969"
+       x="462.42999"
+       y="146.66328"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-7-5-2"
+       width="35"
+       height="34.999969"
+       x="427.42999"
+       y="146.66328"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-2-9-7"
+       width="35"
+       height="34.999969"
+       x="392.42999"
+       y="146.66331"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-1-8-1"
+       width="35"
+       height="35"
+       x="357.42999"
+       y="146.66331"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-8-7-1"
+       width="35"
+       height="35"
+       x="322.42996"
+       y="146.66331"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-4-1-1"
+       width="35"
+       height="35"
+       x="287.42996"
+       y="146.66331"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-0"
+       width="35"
+       height="35"
+       x="7.4299545"
+       y="111.66337"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-1-0"
+       width="35"
+       height="34.999969"
+       x="287.42996"
+       y="111.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-0"
+       width="35"
+       height="34.999969"
+       x="252.42996"
+       y="111.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-6-4"
+       width="35"
+       height="34.999969"
+       x="217.42996"
+       y="111.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-7-5-4"
+       width="35"
+       height="34.999969"
+       x="182.42996"
+       y="111.66333"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-2-9-3"
+       width="35"
+       height="34.999969"
+       x="147.42993"
+       y="111.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-1-8-0"
+       width="35"
+       height="35"
+       x="112.42995"
+       y="111.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-8-7-6"
+       width="35"
+       height="35"
+       x="77.429947"
+       y="111.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-1-0-6"
+       width="35"
+       height="34.999969"
+       x="427.42993"
+       y="111.66338"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-0-4"
+       width="35"
+       height="34.999969"
+       x="392.42993"
+       y="111.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-6-4-1"
+       width="35"
+       height="34.999969"
+       x="357.42996"
+       y="111.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-7-5-4-2"
+       width="35"
+       height="34.999969"
+       x="322.42996"
+       y="111.66335"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-0-4-7"
+       width="35"
+       height="34.999969"
+       x="532.42993"
+       y="111.66338"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-6-4-1-4"
+       width="35"
+       height="34.999969"
+       x="497.42993"
+       y="111.66338"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-7-5-4-2-8"
+       width="35"
+       height="34.999969"
+       x="462.42993"
+       y="111.66338"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-0-4-7-6"
+       width="35"
+       height="34.999969"
+       x="602.42987"
+       y="111.66338"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-6-4-1-4-0"
+       width="35"
+       height="34.999969"
+       x="567.42993"
+       y="111.66338"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-1-4-6-2"
+       width="35"
+       height="34.999969"
+       x="672.42987"
+       y="146.66338"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-1-0-8"
+       width="35"
+       height="34.999969"
+       x="637.42987"
+       y="146.66336"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#00ffff;stroke-width:0.120337"
+       id="rect8004-0-5-0-4-7-6-5"
+       width="35"
+       height="34.999969"
+       x="672.42975"
+       y="111.66344"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+    <rect
+       style="display:inline;fill:#008000;stroke-width:0.120337"
+       id="rect8004-0-6-6-6-4-1-4-0-4"
+       width="35"
+       height="34.999969"
+       x="637.42981"
+       y="111.66344"
+       inkscape:export-xdpi="95.980751"
+       inkscape:export-ydpi="95.980751" />
+  </g>
+  <g
+     inkscape:label="character"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-7.4299469,-111.66333)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.4299545,111.66332)"
+       id="text2860"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2862);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="9.7634516"
+       y="140.32278"
+       id="text22356"><tspan
+         sodipodi:role="line"
+         id="tspan22354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="9.7634516"
+         y="140.32278">一</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="45.453327"
+       y="140.10692"
+       id="text22356-5"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="45.453327"
+         y="140.10692">二</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="80.285522"
+       y="140.10207"
+       id="text22356-0"><tspan
+         sodipodi:role="line"
+         id="tspan22354-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="80.285522"
+         y="140.10207">三</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="115.9754"
+       y="139.8862"
+       id="text22356-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="115.9754"
+         y="139.8862">四</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="150.38896"
+       y="140.40166"
+       id="text22356-1"><tspan
+         sodipodi:role="line"
+         id="tspan22354-44"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="150.38896"
+         y="140.40166">五</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="186.07883"
+       y="140.18579"
+       id="text22356-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="186.07883"
+         y="140.18579">六</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="219.98347"
+       y="140.77217"
+       id="text22356-9"><tspan
+         sodipodi:role="line"
+         id="tspan22354-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="219.98347"
+         y="140.77217">七</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="255.67336"
+       y="140.5563"
+       id="text22356-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="255.67336"
+         y="140.5563">八</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="290.50555"
+       y="140.55145"
+       id="text22356-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan22354-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="290.50555"
+         y="140.55145">九</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="326.1954"
+       y="140.33559"
+       id="text22356-5-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="326.1954"
+         y="140.33559">十</tspan></text>
+    <g
+       id="g24201">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="289.29022"
+         y="181.43202"
+         id="text22356-1-9"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="289.29022"
+           y="181.43202"
+           id="tspan9119">一</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="289.24661"
+         y="159.70163"
+         id="text22356-1-9-7"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="289.24661"
+           y="159.70163"
+           id="tspan9119-0">十</tspan></text>
+    </g>
+    <g
+       id="g24195">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="316.8363"
+         y="159.38559"
+         id="text22356-1-9-7-4"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="316.8363"
+           y="159.38559"
+           id="tspan9119-0-6">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="317.9216"
+         y="181.25887"
+         id="text22356-5-3-2"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="317.9216"
+           y="181.25887"
+           id="tspan11605">二</tspan></text>
+    </g>
+    <g
+       id="g24189">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="344.53714"
+         y="159.07703"
+         id="text22356-1-9-7-5"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="344.53714"
+           y="159.07703"
+           id="tspan9119-0-7">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="345.10925"
+         y="181.75272"
+         id="text22356-1-9-5"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="345.10925"
+           y="181.75272"
+           id="tspan9119-1">三</tspan></text>
+    </g>
+    <g
+       id="g24183">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="373.25763"
+         y="159.38559"
+         id="text22356-1-9-7-1"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="373.25763"
+           y="159.38559"
+           id="tspan9119-0-3">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="373.74066"
+         y="181.57954"
+         id="text22356-5-3-2-0"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="373.74066"
+           y="181.57954"
+           id="tspan11605-1">四</tspan></text>
+    </g>
+    <g
+       id="g24177">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="402.11874"
+         y="159.38931"
+         id="text22356-1-9-7-0"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="402.11874"
+           y="159.38931"
+           id="tspan9119-0-65">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="401.10779"
+         y="181.75272"
+         id="text22356-1-9-0"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="401.10779"
+           y="181.75272"
+           id="tspan9119-5">五</tspan></text>
+    </g>
+    <g
+       id="g24171">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="429.70844"
+         y="159.07329"
+         id="text22356-1-9-7-4-0"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="429.70844"
+           y="159.07329"
+           id="tspan9119-0-6-5">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="429.73917"
+         y="181.57954"
+         id="text22356-5-3-2-8"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="429.73917"
+           y="181.57954"
+           id="tspan11605-7">六</tspan></text>
+    </g>
+    <g
+       id="g24165">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="457.4093"
+         y="158.76471"
+         id="text22356-1-9-7-5-7"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="457.4093"
+           y="158.76471"
+           id="tspan9119-0-7-9">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="457.2637"
+         y="181.75272"
+         id="text22356-1-9-0-5"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="457.2637"
+           y="181.75272"
+           id="tspan9119-5-3">七</tspan></text>
+    </g>
+    <g
+       id="g24159">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="486.12979"
+         y="159.07329"
+         id="text22356-1-9-7-1-1"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="486.12979"
+           y="159.07329"
+           id="tspan9119-0-3-2">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="485.89508"
+         y="181.57954"
+         id="text22356-5-3-2-8-4"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="485.89508"
+           y="181.57954"
+           id="tspan11605-7-3">八</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-39.429726"
+       y="-150.64839"
+       id="text22356-2"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-39.429726"
+         y="-150.64839">一</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-74.976082"
+       y="-152.67149"
+       id="text22356-5-5"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-74.976082"
+         y="-152.67149">二</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-110.21014"
+       y="-152.83887"
+       id="text22356-0-4"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-7-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-110.21014"
+         y="-152.83887">三</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-146.35928"
+       y="-154.38834"
+       id="text22356-5-7-3"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-146.35928"
+         y="-154.38834">四</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-180.28487"
+       y="-153.10976"
+       id="text22356-1-98"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-44-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-180.28487"
+         y="-153.10976">五</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-215.31453"
+       y="-153.45363"
+       id="text22356-5-3-8"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-6-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-215.31453"
+         y="-153.45363">六</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-249.54927"
+       y="-153.88213"
+       id="text22356-9-4"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-249.54927"
+         y="-153.88213">七</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-285.52621"
+       y="-154.226"
+       id="text22356-5-8-7"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-285.52621"
+         y="-154.226">八</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-320.25797"
+       y="-154.49385"
+       id="text22356-0-5-6"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-7-0-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-320.25797"
+         y="-154.49385">九</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       x="-355.99084"
+       y="-153.86177"
+       id="text22356-5-7-1-1"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan22354-4-4-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         x="-355.99084"
+         y="-153.86177">十</tspan></text>
+    <g
+       id="g24201-7"
+       style="display:inline"
+       transform="rotate(180,375.45234,147.0662)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="289.29022"
+         y="181.43202"
+         id="text22356-1-9-6"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="289.29022"
+           y="181.43202"
+           id="tspan9119-8">一</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="289.24661"
+         y="159.70163"
+         id="text22356-1-9-7-52"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="289.24661"
+           y="159.70163"
+           id="tspan9119-0-34">十</tspan></text>
+    </g>
+    <g
+       id="g24195-6"
+       style="display:inline"
+       transform="rotate(180,410.29769,146.74908)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="316.8363"
+         y="159.38559"
+         id="text22356-1-9-7-4-2"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="316.8363"
+           y="159.38559"
+           id="tspan9119-0-6-1">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="317.9216"
+         y="181.25887"
+         id="text22356-5-3-2-9"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="317.9216"
+           y="181.25887"
+           id="tspan11605-0">二</tspan></text>
+    </g>
+    <g
+       id="g24189-3"
+       style="display:inline"
+       transform="rotate(180,444.51494,146.82535)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="344.53714"
+         y="159.07703"
+         id="text22356-1-9-7-5-9"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="344.53714"
+           y="159.07703"
+           id="tspan9119-0-7-7">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="345.10925"
+         y="181.75272"
+         id="text22356-1-9-5-4"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="345.10925"
+           y="181.75272"
+           id="tspan9119-1-9">三</tspan></text>
+    </g>
+    <g
+       id="g24183-4"
+       style="display:inline"
+       transform="rotate(180,480.17461,146.88623)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="373.25763"
+         y="159.38559"
+         id="text22356-1-9-7-1-4"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="373.25763"
+           y="159.38559"
+           id="tspan9119-0-3-3">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="373.74066"
+         y="181.57954"
+         id="text22356-5-3-2-0-8"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="373.74066"
+           y="181.57954"
+           id="tspan11605-1-2">四</tspan></text>
+    </g>
+    <g
+       id="g24177-1"
+       style="display:inline"
+       transform="rotate(180,515.43465,146.72165)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="402.11874"
+         y="159.38931"
+         id="text22356-1-9-7-0-2"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="402.11874"
+           y="159.38931"
+           id="tspan9119-0-65-4">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="401.10779"
+         y="181.75272"
+         id="text22356-1-9-0-4"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="401.10779"
+           y="181.75272"
+           id="tspan9119-5-9">五</tspan></text>
+    </g>
+    <g
+       id="g24171-5"
+       style="display:inline"
+       transform="rotate(180,550.54224,146.79329)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="429.70844"
+         y="159.07329"
+         id="text22356-1-9-7-4-0-3"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="429.70844"
+           y="159.07329"
+           id="tspan9119-0-6-5-0">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="429.73917"
+         y="181.57954"
+         id="text22356-5-3-2-8-3"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="429.73917"
+           y="181.57954"
+           id="tspan11605-7-4">六</tspan></text>
+    </g>
+    <g
+       id="g24165-7"
+       style="display:inline"
+       transform="rotate(180,584.92405,146.69741)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="457.4093"
+         y="158.76471"
+         id="text22356-1-9-7-5-7-8"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="457.4093"
+           y="158.76471"
+           id="tspan9119-0-7-9-6">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="457.2637"
+         y="181.75272"
+         id="text22356-1-9-0-5-0"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="457.2637"
+           y="181.75272"
+           id="tspan9119-5-3-3">七</tspan></text>
+    </g>
+    <g
+       id="g24159-0"
+       style="display:inline"
+       transform="rotate(180,620.6093,146.80252)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="486.12979"
+         y="159.07329"
+         id="text22356-1-9-7-1-1-6"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="486.12979"
+           y="159.07329"
+           id="tspan9119-0-3-2-6">十</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         x="485.89508"
+         y="181.57954"
+         id="text22356-5-3-2-8-4-1"
+         transform="scale(1.2465302,0.80222685)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           x="485.89508"
+           y="181.57954"
+           id="tspan11605-7-3-2">八</tspan></text>
+    </g>
+  </g>
+</svg>
