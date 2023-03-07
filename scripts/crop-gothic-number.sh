@@ -1,6 +1,6 @@
 #!/bin/bash -eu
 
-DIR="../docs/number"
+DIR="../docs/gothic_number"
 
 mkdir -p tmp
 convert -crop "10%x100%" $DIR/number.png tmp/number.png
