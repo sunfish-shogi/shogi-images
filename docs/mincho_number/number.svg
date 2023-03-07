@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="699.99994mm"
-   height="70.000031mm"
-   viewBox="0 0 699.99994 70.000031"
+   width="699.99982mm"
+   height="35.000076mm"
+   viewBox="0 0 699.99982 35.000077"
    version="1.1"
    id="svg153"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.62448797"
-     inkscape:cx="2096.9179"
-     inkscape:cy="149.72266"
+     inkscape:zoom="0.31224398"
+     inkscape:cx="1122.5197"
+     inkscape:cy="-97.680027"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -1128,17 +1128,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="frame"
-     transform="translate(-7.4299469,-111.66333)"
+     transform="translate(-7.4299545,-111.66333)"
      style="display:none">
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-1"
-       width="35"
-       height="34.999969"
-       x="252.42996"
-       y="146.66335"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
     <rect
        style="display:inline;fill:#00ffff;stroke-width:0.120337"
        id="rect8004-0-4"
@@ -1146,159 +1137,6 @@
        height="35"
        x="42.429955"
        y="111.66336"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-5"
-       width="35"
-       height="34.999969"
-       x="217.42996"
-       y="146.66333"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-6"
-       width="35"
-       height="34.999969"
-       x="182.42996"
-       y="146.66333"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-7-5"
-       width="35"
-       height="34.999969"
-       x="147.42996"
-       y="146.66333"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-2-9"
-       width="35"
-       height="34.999969"
-       x="112.42995"
-       y="146.66336"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-1-8"
-       width="35"
-       height="35"
-       x="77.429955"
-       y="146.66336"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-8-7"
-       width="35"
-       height="35"
-       x="42.429947"
-       y="146.66336"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-4-1"
-       width="35"
-       height="35"
-       x="7.4299469"
-       y="146.66336"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-1-4"
-       width="35"
-       height="34.999969"
-       x="532.42999"
-       y="146.6633"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-5-1"
-       width="35"
-       height="34.999969"
-       x="497.42999"
-       y="146.66328"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-1-4-6"
-       width="35"
-       height="34.999969"
-       x="602.42999"
-       y="146.66331"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-5-1-0"
-       width="35"
-       height="34.999969"
-       x="567.42999"
-       y="146.6633"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-6-6"
-       width="35"
-       height="34.999969"
-       x="462.42999"
-       y="146.66328"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-7-5-2"
-       width="35"
-       height="34.999969"
-       x="427.42999"
-       y="146.66328"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-2-9-7"
-       width="35"
-       height="34.999969"
-       x="392.42999"
-       y="146.66331"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-1-8-1"
-       width="35"
-       height="35"
-       x="357.42999"
-       y="146.66331"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-8-7-1"
-       width="35"
-       height="35"
-       x="322.42996"
-       y="146.66331"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-4-1-1"
-       width="35"
-       height="35"
-       x="287.42996"
-       y="146.66331"
        inkscape:export-xdpi="95.980751"
        inkscape:export-ydpi="95.980751" />
     <rect
@@ -1455,24 +1293,6 @@
        inkscape:export-xdpi="95.980751"
        inkscape:export-ydpi="95.980751" />
     <rect
-       style="display:inline;fill:#008000;stroke-width:0.120337"
-       id="rect8004-0-6-6-1-4-6-2"
-       width="35"
-       height="34.999969"
-       x="672.42987"
-       y="146.66338"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
-       style="display:inline;fill:#00ffff;stroke-width:0.120337"
-       id="rect8004-0-5-1-0-8"
-       width="35"
-       height="34.999969"
-       x="637.42987"
-       y="146.66336"
-       inkscape:export-xdpi="95.980751"
-       inkscape:export-ydpi="95.980751" />
-    <rect
        style="display:inline;fill:#00ffff;stroke-width:0.120337"
        id="rect8004-0-5-0-4-7-6-5"
        width="35"
@@ -1496,145 +1316,145 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-7.4299469,-111.66333)">
+     transform="translate(-7.4299545,-111.66333)">
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,7.4299545,111.66332)"
        id="text2860"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2862);fill:#000000;fill-opacity:1;stroke:none" />
+       style="font-style:normal;font-weight:900;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2862);fill:#000000;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="9.7634516"
        y="140.32278"
        id="text22356"><tspan
          sodipodi:role="line"
          id="tspan22354"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="9.7634516"
          y="140.32278">一</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="45.453327"
        y="140.10692"
        id="text22356-5"><tspan
          sodipodi:role="line"
          id="tspan22354-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="45.453327"
          y="140.10692">二</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="80.285522"
        y="140.10207"
        id="text22356-0"><tspan
          sodipodi:role="line"
          id="tspan22354-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="80.285522"
          y="140.10207">三</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="115.9754"
        y="139.8862"
        id="text22356-5-7"><tspan
          sodipodi:role="line"
          id="tspan22354-4-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="115.9754"
          y="139.8862">四</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="150.38896"
        y="140.40166"
        id="text22356-1"><tspan
          sodipodi:role="line"
          id="tspan22354-44"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="150.38896"
          y="140.40166">五</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="186.07883"
        y="140.18579"
        id="text22356-5-3"><tspan
          sodipodi:role="line"
          id="tspan22354-4-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="186.07883"
          y="140.18579">六</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="219.98347"
        y="140.77217"
        id="text22356-9"><tspan
          sodipodi:role="line"
          id="tspan22354-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="219.98347"
          y="140.77217">七</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="255.67336"
        y="140.5563"
        id="text22356-5-8"><tspan
          sodipodi:role="line"
          id="tspan22354-4-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="255.67336"
          y="140.5563">八</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="290.50555"
        y="140.55145"
        id="text22356-0-5"><tspan
          sodipodi:role="line"
          id="tspan22354-7-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="290.50555"
          y="140.55145">九</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
        x="326.1954"
        y="140.33559"
        id="text22356-5-7-1"><tspan
          sodipodi:role="line"
          id="tspan22354-4-4-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.3936px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
          x="326.1954"
          y="140.33559">十</tspan></text>
     <g
        id="g24201">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="289.29022"
          y="181.43202"
          id="text22356-1-9"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="289.29022"
            y="181.43202"
            id="tspan9119">一</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="289.24661"
          y="159.70163"
          id="text22356-1-9-7"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="289.24661"
            y="159.70163"
            id="tspan9119-0">十</tspan></text>
@@ -1643,25 +1463,25 @@
        id="g24195">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="316.8363"
          y="159.38559"
          id="text22356-1-9-7-4"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="316.8363"
            y="159.38559"
            id="tspan9119-0-6">十</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="317.9216"
          y="181.25887"
          id="text22356-5-3-2"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="317.9216"
            y="181.25887"
            id="tspan11605">二</tspan></text>
@@ -1670,25 +1490,25 @@
        id="g24189">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="344.53714"
          y="159.07703"
          id="text22356-1-9-7-5"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="344.53714"
            y="159.07703"
            id="tspan9119-0-7">十</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="345.10925"
          y="181.75272"
          id="text22356-1-9-5"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="345.10925"
            y="181.75272"
            id="tspan9119-1">三</tspan></text>
@@ -1697,25 +1517,25 @@
        id="g24183">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="373.25763"
          y="159.38559"
          id="text22356-1-9-7-1"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="373.25763"
            y="159.38559"
            id="tspan9119-0-3">十</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="373.74066"
          y="181.57954"
          id="text22356-5-3-2-0"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="373.74066"
            y="181.57954"
            id="tspan11605-1">四</tspan></text>
@@ -1724,25 +1544,25 @@
        id="g24177">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="402.11874"
          y="159.38931"
          id="text22356-1-9-7-0"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="402.11874"
            y="159.38931"
            id="tspan9119-0-65">十</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="401.10779"
          y="181.75272"
          id="text22356-1-9-0"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="401.10779"
            y="181.75272"
            id="tspan9119-5">五</tspan></text>
@@ -1751,25 +1571,25 @@
        id="g24171">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="429.70844"
          y="159.07329"
          id="text22356-1-9-7-4-0"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="429.70844"
            y="159.07329"
            id="tspan9119-0-6-5">十</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="429.73917"
          y="181.57954"
          id="text22356-5-3-2-8"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="429.73917"
            y="181.57954"
            id="tspan11605-7">六</tspan></text>
@@ -1778,25 +1598,25 @@
        id="g24165">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="457.4093"
          y="158.76471"
          id="text22356-1-9-7-5-7"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="457.4093"
            y="158.76471"
            id="tspan9119-0-7-9">十</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="457.2637"
          y="181.75272"
          id="text22356-1-9-0-5"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="457.2637"
            y="181.75272"
            id="tspan9119-5-3">七</tspan></text>
@@ -1805,380 +1625,28 @@
        id="g24159">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="486.12979"
          y="159.07329"
          id="text22356-1-9-7-1-1"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="486.12979"
            y="159.07329"
            id="tspan9119-0-3-2">十</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
          x="485.89508"
          y="181.57954"
          id="text22356-5-3-2-8-4"
          transform="scale(1.2465302,0.80222685)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:23.5803px;font-family:'Zen Old Mincho';-inkscape-font-specification:'Zen Old Mincho, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
            x="485.89508"
            y="181.57954"
            id="tspan11605-7-3">八</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-39.429726"
-       y="-150.64839"
-       id="text22356-2"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-39.429726"
-         y="-150.64839">一</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-74.976082"
-       y="-152.67149"
-       id="text22356-5-5"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-4-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-74.976082"
-         y="-152.67149">二</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-110.21014"
-       y="-152.83887"
-       id="text22356-0-4"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-7-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-110.21014"
-         y="-152.83887">三</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-146.35928"
-       y="-154.38834"
-       id="text22356-5-7-3"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-4-4-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-146.35928"
-         y="-154.38834">四</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-180.28487"
-       y="-153.10976"
-       id="text22356-1-98"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-44-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-180.28487"
-         y="-153.10976">五</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-215.31453"
-       y="-153.45363"
-       id="text22356-5-3-8"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-4-6-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-215.31453"
-         y="-153.45363">六</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-249.54927"
-       y="-153.88213"
-       id="text22356-9-4"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-9-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-249.54927"
-         y="-153.88213">七</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-285.52621"
-       y="-154.226"
-       id="text22356-5-8-7"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-4-9-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-285.52621"
-         y="-154.226">八</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-320.25797"
-       y="-154.49385"
-       id="text22356-0-5-6"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-7-0-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-320.25797"
-         y="-154.49385">九</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36195"
-       x="-355.99084"
-       y="-153.86177"
-       id="text22356-5-7-1-1"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan22354-4-4-9-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3936px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.36195"
-         x="-355.99084"
-         y="-153.86177">十</tspan></text>
-    <g
-       id="g24201-7"
-       style="display:inline"
-       transform="rotate(180,375.45234,147.0662)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="289.29022"
-         y="181.43202"
-         id="text22356-1-9-6"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="289.29022"
-           y="181.43202"
-           id="tspan9119-8">一</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="289.24661"
-         y="159.70163"
-         id="text22356-1-9-7-52"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="289.24661"
-           y="159.70163"
-           id="tspan9119-0-34">十</tspan></text>
-    </g>
-    <g
-       id="g24195-6"
-       style="display:inline"
-       transform="rotate(180,410.29769,146.74908)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="316.8363"
-         y="159.38559"
-         id="text22356-1-9-7-4-2"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="316.8363"
-           y="159.38559"
-           id="tspan9119-0-6-1">十</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="317.9216"
-         y="181.25887"
-         id="text22356-5-3-2-9"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="317.9216"
-           y="181.25887"
-           id="tspan11605-0">二</tspan></text>
-    </g>
-    <g
-       id="g24189-3"
-       style="display:inline"
-       transform="rotate(180,444.51494,146.82535)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="344.53714"
-         y="159.07703"
-         id="text22356-1-9-7-5-9"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="344.53714"
-           y="159.07703"
-           id="tspan9119-0-7-7">十</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="345.10925"
-         y="181.75272"
-         id="text22356-1-9-5-4"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="345.10925"
-           y="181.75272"
-           id="tspan9119-1-9">三</tspan></text>
-    </g>
-    <g
-       id="g24183-4"
-       style="display:inline"
-       transform="rotate(180,480.17461,146.88623)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="373.25763"
-         y="159.38559"
-         id="text22356-1-9-7-1-4"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="373.25763"
-           y="159.38559"
-           id="tspan9119-0-3-3">十</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="373.74066"
-         y="181.57954"
-         id="text22356-5-3-2-0-8"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="373.74066"
-           y="181.57954"
-           id="tspan11605-1-2">四</tspan></text>
-    </g>
-    <g
-       id="g24177-1"
-       style="display:inline"
-       transform="rotate(180,515.43465,146.72165)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="402.11874"
-         y="159.38931"
-         id="text22356-1-9-7-0-2"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="402.11874"
-           y="159.38931"
-           id="tspan9119-0-65-4">十</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="401.10779"
-         y="181.75272"
-         id="text22356-1-9-0-4"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="401.10779"
-           y="181.75272"
-           id="tspan9119-5-9">五</tspan></text>
-    </g>
-    <g
-       id="g24171-5"
-       style="display:inline"
-       transform="rotate(180,550.54224,146.79329)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="429.70844"
-         y="159.07329"
-         id="text22356-1-9-7-4-0-3"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="429.70844"
-           y="159.07329"
-           id="tspan9119-0-6-5-0">十</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="429.73917"
-         y="181.57954"
-         id="text22356-5-3-2-8-3"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="429.73917"
-           y="181.57954"
-           id="tspan11605-7-4">六</tspan></text>
-    </g>
-    <g
-       id="g24165-7"
-       style="display:inline"
-       transform="rotate(180,584.92405,146.69741)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="457.4093"
-         y="158.76471"
-         id="text22356-1-9-7-5-7-8"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="457.4093"
-           y="158.76471"
-           id="tspan9119-0-7-9-6">十</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="457.2637"
-         y="181.75272"
-         id="text22356-1-9-0-5-0"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="457.2637"
-           y="181.75272"
-           id="tspan9119-5-3-3">七</tspan></text>
-    </g>
-    <g
-       id="g24159-0"
-       style="display:inline"
-       transform="rotate(180,620.6093,146.80252)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="486.12979"
-         y="159.07329"
-         id="text22356-1-9-7-1-1-6"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="486.12979"
-           y="159.07329"
-           id="tspan9119-0-3-2-6">十</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;line-height:1.25;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290366"
-         x="485.89508"
-         y="181.57954"
-         id="text22356-5-3-2-8-4-1"
-         transform="scale(1.2465302,0.80222685)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5803px;font-family:IPAexMincho;-inkscape-font-specification:'IPAexMincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.290366"
-           x="485.89508"
-           y="181.57954"
-           id="tspan11605-7-3-2">八</tspan></text>
     </g>
   </g>
 </svg>
