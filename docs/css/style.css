@@ -4,6 +4,7 @@ body {
   font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
   color: white;
   background-color: darkslategray;
+  background: linear-gradient(90deg, #2f4f4f, 70%, #537271);
   margin: 0px;
   padding: 0px;
   text-align: center;
