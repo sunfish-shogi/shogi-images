@@ -4,7 +4,7 @@ NAME=$1
 DIR="../docs/${NAME}"
 
 mkdir -p tmp
-convert -crop "12.5%x25%" $DIR/piece.png tmp/piece.png
+magick $DIR/piece.png -crop "12.5%x25%" tmp/piece.png
 mv tmp/piece-0.png $DIR/black_king.png
 mv tmp/piece-1.png $DIR/black_rook.png
 mv tmp/piece-2.png $DIR/black_bishop.png
