@@ -31,7 +31,7 @@ li {
 .long-text {
   margin-left: auto;
   margin-right: auto;
-  width: min(90vw, 110vh, 1400px);
+  width: min(90vw, 110vh, 1000px);
   text-align: left;
 }
 
@@ -40,21 +40,20 @@ li {
 }
 
 .images {
-  margin-left: auto;
-  margin-right: auto;
-  width: min(90vw, 110vh);
+  margin: 2em auto 2em auto;
+  width: min(90vw, 110vh, 1200px);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 img {
-  width: max(min(40vw, 50vh), min(80vw, 50vh));
-  margin: min(1.0vw, 1.0vh);
+  width: min(max(min(40vw, 50vh), min(80vw, 50vh)), 500px);
+  margin: min(1vw, 1vh);
 }
 
 img.wide {
-  width: max(min(80vw, 80vh), min(80vw, 80vh));
+  width: min(max(min(80vw, 80vh), min(80vw, 80vh)), 800px);
 }
 
 img.border {
@@ -70,7 +69,7 @@ img.icon {
 
 img.small-icon {
   width: auto;
-  height: 1.0em;
+  height: 1em;
   vertical-align: -0.2em;
   margin: 0px;
 }
